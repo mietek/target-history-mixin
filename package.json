@@ -1,0 +1,16 @@
+{
+  "name": "target-history-mixin",
+  "version": "1.0.0",
+  "description": "TODO",
+  "author": "Miëtek Bak <hello@mietek.io>",
+  "homepage": "https://github.com/mietek/target-history-mixin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mietek/target-history-mixin"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "react": "^0.13.3"
+  }
+}
